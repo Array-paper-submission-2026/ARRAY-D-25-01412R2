@@ -19,20 +19,20 @@ How well summaries preserve information needed for decision-making tasks (e.g., 
 
 
 📁 Project Structure
-.
-├── preprocessing.py              # Resume parsing, cleaning, segmentation
-├── modeling.py                  # Core summarization models
-├── modeling_v2.py               # Extended models (more baselines)
-├── main.py                      # Pipeline + timing analysis
-├── main_v2.py                   # Recursive pipeline variant
-├── evaluate_results_*.py        # Classification-based evaluation
-├── requirements.txt             # Dependencies
-├── config/
-│   └── params.yaml              # Configuration file
-├── data/
-│   ├── raw/                     # Input resumes
-│   └── summaries/               # Generated summaries
-└── evaluation_results/          # Outputs (metrics, plots)
+. 
+├── preprocessing.py              # Resume parsing, cleaning, segmentation 
+├── modeling.py                  # Core summarization models 
+├── modeling_v2.py               # Extended models (more baselines) 
+├── main.py                      # Pipeline + timing analysis 
+├── main_v2.py                   # Recursive pipeline variant 
+├── evaluate_results_*.py        # Classification-based evaluation 
+├── requirements.txt             # Dependencies 
+├── config/ 
+│   └── params.yaml              # Configuration file 
+├── data/ 
+│   ├── raw/                     # Input resumes 
+│   └── summaries/               # Generated summaries 
+└── evaluation_results/          # Outputs (metrics, plots) 
 
 
 🧠 Supported Models
