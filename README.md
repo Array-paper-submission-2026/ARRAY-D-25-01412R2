@@ -25,7 +25,7 @@ How well summaries preserve information needed for decision-making tasks (e.g., 
 ├── modeling_v2.py               # Extended models (more baselines) 
 ├── main.py                      # Pipeline + timing analysis 
 ├── main_v2.py                   # Recursive pipeline variant 
-├── evaluate_results_*.py        # Classification-based evaluation 
+├── evaluate_results_classification_idea_with_figures_v3.py        # Classification-based evaluation 
 ├── requirements.txt             # Dependencies 
 ├── config/ 
 │   └── params.yaml              # Configuration file 
