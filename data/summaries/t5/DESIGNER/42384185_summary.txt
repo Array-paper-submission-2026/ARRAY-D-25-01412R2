@@ -1,0 +1,1 @@
+Using 3dsMax, Maya, Softimage, Vray and Mental ray . 3d lighting and shaders: intimate knowledge of Vray, Mental ray creating and using image based lighting, traditional lighting, and hybrids .

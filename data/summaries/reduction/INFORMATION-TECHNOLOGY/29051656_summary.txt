@@ -1,0 +1,1 @@
+Launched and maintained RDS and EC2 instances in AWS. Generated ASH, ADDM and AWR Reports using OEM from Oracle 10g, 11g and 12c database and analyzed the reports for Oracle wait events, time consuming SQL queries, tablespace growth, and database growth. Launched and maintained RDS and EC2 instances in AWS.

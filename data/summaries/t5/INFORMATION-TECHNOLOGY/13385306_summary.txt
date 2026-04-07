@@ -1,0 +1,1 @@
+i was the login account administrator for the authority which utilized Santander Banking Services . i personally rewrote their utility and security library from VB.NET to C# and added many more classes to support more static helper functions . i was the logical Oracle DBA who puts objects into production .

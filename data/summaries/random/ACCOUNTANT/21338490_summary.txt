@@ -1,0 +1,1 @@
+Collection functions for accounts receivables & payables. Report on margins by product and division. Fixed Assets and Revenue/Expense recognition Controller the daily banking requirements.

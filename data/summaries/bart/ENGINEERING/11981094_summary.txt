@@ -1,0 +1,1 @@
+Nexio video servers and applications run in various nodes of Nexio LAN to facilitate collaborative videobroadcast workflows. Media comes from proprietary SAN or generic storage off NAS. Leading team of 3 to 6 from Burbank since 2014 adopted Scrum (ScrumMaster)

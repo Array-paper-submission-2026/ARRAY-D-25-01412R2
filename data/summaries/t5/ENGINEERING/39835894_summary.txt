@@ -1,0 +1,1 @@
+eleven years of experience in Analog, RF and Mixed Signal Layout Design at module and Chip levels for 180nm, 65nm, 45nm, 28nm TSMC, 14FF Samsung foundry and 10nm Intel . skills Aware of Analog Layout fundamentals like Device matching, shielding, Isolation, ESD, Latchup, Antenna, Used post layout parasitic extraction tools EM, DFM .

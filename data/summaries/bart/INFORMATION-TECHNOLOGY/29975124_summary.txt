@@ -1,0 +1,1 @@
+Developed data import file layouts and Crystal Reports for Lucity CMMS application. Developed new applications using Access and Visual basic for Application for clients to track new projects.

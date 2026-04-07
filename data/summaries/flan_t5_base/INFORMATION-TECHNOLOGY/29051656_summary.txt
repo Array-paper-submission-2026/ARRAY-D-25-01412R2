@@ -1,0 +1,1 @@
+migrated an existing stand-alone database to RAC database using Rconfig, RMAN and OEM.

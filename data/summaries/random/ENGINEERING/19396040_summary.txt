@@ -1,0 +1,1 @@
+Line balancing to achieve required takt time and reduce work in process (WIP) inventory. Ergonomic designing of work cell to improve efficiency of workers. Designed tools, gauges and fixture in AutoCAD and /or ProE as required.

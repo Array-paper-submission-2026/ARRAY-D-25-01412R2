@@ -1,0 +1,1 @@
+Use refractometers to test brix. Run various test cases on NEW Platforms to ensure stability in units before field release. GShell software to view modify on sub machines.

@@ -1,0 +1,1 @@
+Look Development: Using 3dsMax, Maya, Softimage, Vray and Mental ray. 3D Lighting and Shaders: Intimate knowledge of Vray, Mental ray creating and using image based lighting, traditional lighting, and hybrids.Advanced visualization of packaging.

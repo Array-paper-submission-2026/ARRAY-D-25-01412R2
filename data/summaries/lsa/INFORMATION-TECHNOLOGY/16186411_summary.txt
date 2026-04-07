@@ -1,0 +1,1 @@
+Modified and written web services using C# to interact with the other applications so data can be served. Developed a web interface for Administrators to upload the pdf files into database which can be viewed by students. For each version the parameters are Prod, QA, test URL, DCL, Database, platforms, framework used to develop application, UAT dates etc.

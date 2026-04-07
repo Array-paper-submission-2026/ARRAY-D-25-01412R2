@@ -1,0 +1,1 @@
+responsibilities include managing a 5-host, 40-server VMWare farm, help desk system, network monitoring system, campus-wide physical/building security system, ID card system, printing infrastructure, electronic exam system. responsibilities included the day-to-day support of end-user hardware, software, and peripherals in a mixed Microsoft Windows, linux, and Novell environment.

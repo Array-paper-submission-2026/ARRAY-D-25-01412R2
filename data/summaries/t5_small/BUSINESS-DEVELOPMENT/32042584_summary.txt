@@ -1,0 +1,1 @@
+Statistical Analysis Software (SAS), R, SAS Data Miner, SQL, Relational Databases, and Microsoft Office programs. used SAS and R to produce an interactive choropleth Google map that tracks page views, Sales, and Market Share of page views per client. the project estimates to earn Haystak a potential of $3.5 million annually.

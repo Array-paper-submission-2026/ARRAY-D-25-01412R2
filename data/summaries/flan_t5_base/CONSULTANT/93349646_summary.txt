@@ -1,0 +1,1 @@
+Oracle EM sites across all of the oracle fleet. The CLOUDEM Operations team supports multiple EM sites across all of the oracle fleet. This is an ever growing portfolio as Oracle is constantly adding new data centers.

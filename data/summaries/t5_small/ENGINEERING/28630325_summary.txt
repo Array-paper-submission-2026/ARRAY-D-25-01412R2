@@ -1,0 +1,1 @@
+Agile coach Web application development Product owner UI design Team lead Relational database design Scrum master Skills ASP, C#, VB.NET, SOAP, REST JQuery, Bootstrap, CSS, HTML5 MSSQL, MYSQL, DTS, SSIS, SSRS IIS 5, IIS 6 Agile, Scrum, Kanban Objective C, PHP, Perl Accomplishments Designed and prototyped payment processing system for new and legacy applications.

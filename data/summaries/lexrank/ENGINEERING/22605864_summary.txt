@@ -1,0 +1,1 @@
+I have worked on various Microsoft technologies such as System Center Suite (SCOM, SCCM, SCVMM), virtualization (Hyper V), Windows 2003/ 2008 Active directory, DNS, DHCP, Windows Clusters, scripting (PowerShell, VBScript), etc. Monthly tasks included Software Updates Management. System Center Configuration Manager 2007 - SCCM Over 4 years' working experience on SCCM.

@@ -1,0 +1,1 @@
+I am currently onsite working for our client in USA since March 2012. We worked on decommissioning Windows 2003 domain controllers out of the environment. Experience on designing, implementing the SCCM infrastructure Prepared artifacts such as environment discovery questionnaire, reference architecture, etc.

@@ -1,0 +1,1 @@
+QFD, requirement cascade and interface analysis for a selected vehicle system, University of Michigan-Dearborn, October 2016.

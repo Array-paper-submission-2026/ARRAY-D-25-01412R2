@@ -1,0 +1,1 @@
+-Validate data extracted from legacy databases. -Create manuals, guidlines, instructions and cheat sheets for data conversion and testing processes -Develop Excel spreadsheets to calculate and show the statistics of reoccurring problems. -Create and run queries in SQL and Microsoft Access to edit databases.

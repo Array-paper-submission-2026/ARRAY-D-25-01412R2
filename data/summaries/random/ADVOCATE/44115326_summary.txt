@@ -1,0 +1,1 @@
+Working on ITSM Change management to upgrade and update Applications as well as Operating Systems. Configuration of NIM Master, NIM slaves and nodes installation through NIM. Performed AIX Migration of AIX 5.2 to 5.3 and 6.1 on Power7 p-770/750, p6 p570/550 and p5 p550/520/505s Servers & hardware Migration from one hardware to another in a Virtualized environment.

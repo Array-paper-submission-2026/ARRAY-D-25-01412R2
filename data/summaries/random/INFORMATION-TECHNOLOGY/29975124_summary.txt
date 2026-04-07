@@ -1,0 +1,1 @@
+Prepared and provided training for CIS, Meter Reading software, and CMMS applications. Developed data import file layouts and Crystal Reports for Lucity CMMS application. Developed management reports using GQL\User and Sybase SQL Server database in OS/2 environment.

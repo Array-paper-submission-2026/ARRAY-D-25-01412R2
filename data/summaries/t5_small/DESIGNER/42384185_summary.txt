@@ -1,0 +1,1 @@
+3D Modeling: Detailed hard surface polygonal modeling in 3dsMax, Maya and Softimage (automotive, mechanical, product and architectural). Cleanup and model prep, optimization and modifications to existing models. Highlights Autodesk 3DS Max Autodesk Maya Vray and Mental ray. Camera previz work, lighting, shading, painting textures, UVW mapping, modeling, and rendering.

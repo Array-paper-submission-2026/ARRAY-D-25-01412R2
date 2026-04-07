@@ -1,0 +1,1 @@
+ENGINEERING INTERN Skills C++, Python, MATLAB, Git, Bash, R, SQL (basic) developed a solids transport model for predicting cuttings/cavings bed height during a hole-cleaning operation.

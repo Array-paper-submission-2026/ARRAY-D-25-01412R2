@@ -1,0 +1,1 @@
+Prepare the collection register for controlling the Debt and collection. Maintain the Assets Register and calculate the depreciation on monthly basis. Prepare the collection register for controlling the Debt and collection.

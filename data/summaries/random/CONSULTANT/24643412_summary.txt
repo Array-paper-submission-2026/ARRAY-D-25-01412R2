@@ -1,0 +1,1 @@
+Summary Master's degree in Computer Science with twenty-five years of experience designing, implementing, and maintaining computer programs, architectures, and operating systems. Duties included coordinating with off-shore programmers, unit testing, sub-system testing, development and performance tuning. Tools were written in VB on a Windows system.

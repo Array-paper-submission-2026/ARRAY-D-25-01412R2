@@ -1,0 +1,1 @@
+Developed and enhanced WebI reports and universes through Business Objects Provided technical support to triage database performance and reporting related issues Reviewed and interpret report SQL to determine data source and business logic Conducted report requirement gathering sessions with project business SMEs

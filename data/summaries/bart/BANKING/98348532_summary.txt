@@ -1,0 +1,1 @@
+Developed custom database designs which is used for strong and fast analytical report for wider audience across the organization. Developed an Oracle and Teradata layers for pushing the data toiOS Mobile Application.

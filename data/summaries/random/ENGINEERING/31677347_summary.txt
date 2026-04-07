@@ -1,0 +1,1 @@
+BCD spinoff as Imagine in 2013) Nexio video servers and applications facilitate collaborative workflow in Nexio LAN with video servers, services and applications running in various nodes. Created header only JSON parser on top of open source "rapid json" for SAX style reader. Published 10 JSON protocol API documents for 3rd party and in-house use.

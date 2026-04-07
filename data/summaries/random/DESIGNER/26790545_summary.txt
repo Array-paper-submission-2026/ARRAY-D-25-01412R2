@@ -1,0 +1,1 @@
+Defining user scenarios, goals and tasks, and resulting customer journeys. Assist with development of test plans and scripts for usability testing. -Prepare and deploy Customer awareness videos e.g Siebel CRM tips & Tricks, Hyconnect, Hynet, MTN mifi etc across regions via flash presentations.

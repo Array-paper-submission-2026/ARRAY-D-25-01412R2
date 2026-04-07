@@ -1,0 +1,1 @@
+Configured and troubleshoot network printers on a LAN. Server hardware up/downgrades for 3,000 servers. Server reboots and re/installs for Windows and different versions of Linux such as Fedora, Ubuntu, CentOS, and Red Hat.

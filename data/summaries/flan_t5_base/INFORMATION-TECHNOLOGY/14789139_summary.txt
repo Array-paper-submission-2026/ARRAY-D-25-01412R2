@@ -1,0 +1,1 @@
+Mattel - Developed a CRM and Decision Support solution across several departments and vendors based on Epiphany technology. Project included the design of both an Epiphany data mart and a separate customer data warehouse.

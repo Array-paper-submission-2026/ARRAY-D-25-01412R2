@@ -1,0 +1,1 @@
+Developed a physics system for damage assessment on a fighter aircraft (MIG-29A) for fragmentation and blast damage from an air-to-air missile (AIM-120)

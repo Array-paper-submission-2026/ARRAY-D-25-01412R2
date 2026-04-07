@@ -1,0 +1,1 @@
+Migrated 180 mappings from Informatica ETL tool to Datastage tool as part of ETL conversion project. Analysed each Informatica workflow/mapping and converted it to Datastage jobs. Performed test case scenario/production implementation and support.

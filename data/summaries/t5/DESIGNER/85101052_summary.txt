@@ -1,0 +1,1 @@
+the iCon3 tool is an integrated tool set spanning initial system estimate and quotation, through system engineering, controller programming, supervisor software configuration, commissioning and service . the vision of the tool is to focus on reducing labor hours required to design, estimate, engineer, commission and service a building automation system .

@@ -1,0 +1,1 @@
+team of 8 from northridge, team of 8 from northridge, and team of 8 from Beijing. team migrated source revision control to Mercurial / Jenkins. architected and executed SOA from concept to completion to facilitate decoupled clients.

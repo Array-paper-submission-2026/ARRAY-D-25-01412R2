@@ -1,0 +1,1 @@
+Firewalls: Palo Alto, Cisco ASA, Check Point. Routers: Cisco Routers (7600, 7200, Catalyst 6500, Nexus 7000, Firewalls: Palo Alto, Cisco ASA, Check Point. Created network diagrams and documentation for design using documentation tools like MS VISIO.

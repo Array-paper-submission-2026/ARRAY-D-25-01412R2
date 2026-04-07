@@ -1,0 +1,1 @@
+Maximizing corporate network services uptime. Utilizes Active Directory to manage user accounts, create groups, and computer accounts Administering a Microsoft Windows Server network of servers. Developed documentation for common processes for both support staff and end-users.

@@ -1,0 +1,1 @@
+Software Engineer with 2 years in Web Developer specializing in front end development. Strong experience in data retrieval and manipulation using ADO.Net dataobjects such as Dataset, Data Reader and Data list.

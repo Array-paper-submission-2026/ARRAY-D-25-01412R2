@@ -1,0 +1,1 @@
+Cloud Computing. Familiar with designing high level architecture for implementation of Hybrid Cloud. Experienced in doing capacity planning for new AIX environments. Knowledge on AWS OpsWorks. Implementation and Administration of DHCP, NFS and NIS on AIX.

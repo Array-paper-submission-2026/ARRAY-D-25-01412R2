@@ -1,0 +1,1 @@
+Nexio video servers and applications facilitate collaborative workflow in Nexio LAN with video servers, services and applications running in various nodes. Media comes from proprietary SAN or generic storage off NAS

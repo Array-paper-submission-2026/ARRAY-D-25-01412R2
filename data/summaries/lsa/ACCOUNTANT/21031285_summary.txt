@@ -1,0 +1,1 @@
+Communicates with Grants and Contracts to ensure that requests completed in a timely manner. Implemented a macro-enabled reconciliation template, which increased effectiveness by twenty percent and significantly reduced keying errors. Maintained controlling records required to ensure accuracy of all data entered into the accounting system.

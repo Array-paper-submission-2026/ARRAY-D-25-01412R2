@@ -1,0 +1,1 @@
+Architect consumer electronics products related to multimedia and networking. Lead development of BD-J stack, which was one of the most complex piece of software in Blu-ray player. Led architecture and development of platform software for Nucleus middleware.

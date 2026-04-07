@@ -1,0 +1,1 @@
+PHD is a Ph.D. candidate in Finance at the University of Connecticut. His work is based on the development,application, and testing of quantitative models. He is proficient in R, SAS, SQL, C++, Fortran, VBA.

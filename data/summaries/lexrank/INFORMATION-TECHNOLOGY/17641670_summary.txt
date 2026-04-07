@@ -1,0 +1,1 @@
+Work with VPSI business units/programs to design and develop functionalities that meet business requirements. May provide user orientation on hardware, or software or network operations. Wrote tests scripts for the Arbin Instrument and Sigmar System tester to perform various functions for the battery qualification.

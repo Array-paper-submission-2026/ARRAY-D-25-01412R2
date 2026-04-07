@@ -1,0 +1,1 @@
+data governance committee - Oversee executive strategy in institutional master data to commit to trusted, accurate, structured and meaningful master data. a complex network of interfaces between 6+ enterprise systems, 4 SQL databases, 1 Oracle database, and other enterprise systems (file server, exchange, EDI, etc.)

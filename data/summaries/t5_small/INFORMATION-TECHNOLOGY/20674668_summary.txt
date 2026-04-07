@@ -1,0 +1,1 @@
+the NYSED.GOV redesign project is based on the NYSED's website and content strategy. the NYSED ITS and Program Office Managements have a core competency in Drupal 7 and Drupal 8 development.

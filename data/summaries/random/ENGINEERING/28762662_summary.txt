@@ -1,0 +1,1 @@
+NX-theme DLL, skinning SDK (C++, MFC) Applied selective API detour, Window procedure intercept, and application message queue intercept. Team added one converter DLL per media container format for import and export. Star Media, technology startup, created video editing software Velocity for post-production space.

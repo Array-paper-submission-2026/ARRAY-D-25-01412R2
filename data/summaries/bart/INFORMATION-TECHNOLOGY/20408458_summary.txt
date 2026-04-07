@@ -1,0 +1,1 @@
+The Apollo / SunTrust EIS Data Migration Project (Non-Branch) Analyze server space and data to determine the needed space on the "Network Attached Storage" (NAS) Run TBackups on all Novel servers using eDirectory/NDS Report Generator to determine users on the network.

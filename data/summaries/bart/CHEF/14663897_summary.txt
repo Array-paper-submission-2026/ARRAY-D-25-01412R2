@@ -1,0 +1,1 @@
+Chef is responsible for all aspects of an independently operated Hospital kitchen including staffing, payroll, menus, inventory/ordering, P&L, employee training.

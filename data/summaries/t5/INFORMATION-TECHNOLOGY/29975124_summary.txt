@@ -1,0 +1,1 @@
+CIS, CMMS, and Neptune AMR applications supported . developed secure FTP scripts during implementation of CIS and AMR applications after Ransomware attack .

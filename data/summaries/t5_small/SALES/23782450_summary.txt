@@ -1,0 +1,1 @@
+customer interface Greeted customers upon entrance and handled all cash and credit transactions. assist customers by providing information and resolving their complaints. Count money in cash drawers at the beginning of shifts to ensure amounts are correct and that there is adequate change.

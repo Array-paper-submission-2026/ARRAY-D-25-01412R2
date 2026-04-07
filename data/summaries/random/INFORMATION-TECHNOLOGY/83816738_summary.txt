@@ -1,0 +1,1 @@
+Integrated automated tests with Cucumber (behavior-driven testing framework) to allow Quality Assurance team write high-level use cases in plain text. Automated reports generation and distribution. Prepared test plans for unit testing and implemented test cases using JUnit.

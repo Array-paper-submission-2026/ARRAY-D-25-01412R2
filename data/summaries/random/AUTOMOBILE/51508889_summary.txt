@@ -1,0 +1,1 @@
+Ability to allow field representatives to send requests to add or update existing Professionals in the system. Implemented standard Error handling and reporting functions. Involved in configuration of different environments like development, testing and production Involved in setting up development servers and test server for configuration management.

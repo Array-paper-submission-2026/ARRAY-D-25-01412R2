@@ -1,0 +1,1 @@
+include: Vendor creation, invoice processing, helpdesk, T&E, Payment, Fixed assets, Reconciliation, Cash allocation, Billing, CCI and so on. For the legal client we do Data Entry & which includes 5 functions for their foreclosure legal paper service of process business.

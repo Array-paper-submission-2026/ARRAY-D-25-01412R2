@@ -1,0 +1,1 @@
+Implemented pivotal GemFire (In-Memory database) to achieve high-performance and to handle high load on Authorization service. According to order, Sofia provisioning system delegates those orders to respective modules. Implemented services S1, S2, S3, S4 ... for NorthBound systems.

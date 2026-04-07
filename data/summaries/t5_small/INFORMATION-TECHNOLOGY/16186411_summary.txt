@@ -1,0 +1,1 @@
+Developed web based applications using C#, ASP.Net, JavaScript, jQuery, CSS, Bootstrap CSS, HTML, XML and AJAX. Worked extensively with.Net Server Controls, Web User Controls, Data Grid, Web Control, Form Validation Controls and created Custom controls.

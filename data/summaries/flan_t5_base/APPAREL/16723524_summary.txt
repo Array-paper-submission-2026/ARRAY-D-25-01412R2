@@ -1,0 +1,1 @@
+Orders, pricing and production planning of assigned customers using SAP. Implement and control production schedule.

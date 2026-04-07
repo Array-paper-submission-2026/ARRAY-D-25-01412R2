@@ -1,0 +1,1 @@
+BD-J stack, which was one of the most complex piece of software in Blu-ray player. Led development of new middleware solution for OTT and other multimedia playback on set-tops.

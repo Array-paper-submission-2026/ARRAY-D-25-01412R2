@@ -1,0 +1,1 @@
+Analyze financial, patient experience, throughput, and quality data to develop clear strategic actions plans. Train new analyst and consultants in analytic tools such as MySQL, Excel, Tableau, and Weka. Monitored and audit enterprise master patient index database using InterSystems' HealthShare platform.

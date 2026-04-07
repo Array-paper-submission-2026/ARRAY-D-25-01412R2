@@ -1,0 +1,1 @@
+ENGINEERING SUPERVISOR Skills PLC: IEC 61131 (Ladder Logic, Functional Block Diagram, Structured Text, Instruction List. ) Java, C, Visual Basic, VHDL, PSpice, Assembly (Intel, Motorola, TI)

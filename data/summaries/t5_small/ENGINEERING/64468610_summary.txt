@@ -1,0 +1,1 @@
+software engineer 14 City, state Visual C++, Windows, STL, OOP, MFC, threads, file maps, ATL, IPC, FTP, XML, JSON, services, REST API, SOA, media formats and standards. architected and executed SOA from concept to completion to facilitate decoupled UI clients, 2 web services and 10 services.

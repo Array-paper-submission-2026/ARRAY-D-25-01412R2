@@ -1,0 +1,1 @@
+The Project Accountant performs weekly Cash Counts and monthly Bank accountreconciliations and reports back to the MTN / DC home office project accountant.

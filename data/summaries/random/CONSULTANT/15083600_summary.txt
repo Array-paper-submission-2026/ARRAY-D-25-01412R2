@@ -1,0 +1,1 @@
+Detailed knowledge of traded financial instruments. Supported Open Market Operations (OMO) in forecasting money supply and the Board of Governors (BoG) in implementing monetary policy. Increased the accuracy of data transmitted to the BoG by creating analytical models that track the flow and trend of depositary data.

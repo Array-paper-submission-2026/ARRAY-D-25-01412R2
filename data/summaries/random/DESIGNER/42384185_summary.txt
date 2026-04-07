@@ -1,0 +1,1 @@
+Cleanup and model prep, optimization and modifications to existing models.General 3d: General scene setup, optimization and prep work in 3dsMax, Maya, Softimage. Vray and Mental ray. Vray and Mental ray.

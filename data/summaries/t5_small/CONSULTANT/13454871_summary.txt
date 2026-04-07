@@ -1,0 +1,1 @@
+Oracle EDI for sales order entry and warehouse operations for the customer. Developed custom interfaces for PLM tools to communicate with oracle Item master. Developed custom reports for customer facing documents as well as internal documentation.

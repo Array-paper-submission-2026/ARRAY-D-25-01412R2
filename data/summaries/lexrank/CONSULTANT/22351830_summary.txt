@@ -1,0 +1,1 @@
+Implemented MyBatis as persistence framework for Identity service. Used Mockito and WireMock as a mocking framework. Implemented services S1, S2, S3, S4 ... for NorthBound systems.

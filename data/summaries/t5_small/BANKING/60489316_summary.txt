@@ -1,0 +1,1 @@
+ICBA is a full fledged web-based core banking systems utilizing open systems technologies like J2E and Oracle and IBM solutions. ICBA is a full fledged web-based core banking systems utilizing open systems technologies like ESB, BPM, Cloud, Mobility, WebSphere, Rational Enterprise Modernization, DevOps,.

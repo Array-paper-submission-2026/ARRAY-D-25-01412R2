@@ -1,0 +1,1 @@
+Technical IT Healthcare Consultant Company Name - City, State 04/2014 - Current Design,Build, Test, and Deploy base upon technical requirements of vendor. Configuration, installation, administration, and monitoring of twenty IBM Blades with fault tolerant, snapshot, LVM, and selinux.

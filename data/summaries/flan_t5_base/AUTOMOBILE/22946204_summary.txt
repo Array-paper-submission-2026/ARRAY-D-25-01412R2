@@ -1,0 +1,1 @@
+Programming Efficient on Python and Java with a variety of hand-on projects involving exercises of data structure, algorithms, GUI.

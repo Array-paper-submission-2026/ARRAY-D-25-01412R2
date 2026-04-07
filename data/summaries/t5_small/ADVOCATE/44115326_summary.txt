@@ -1,0 +1,1 @@
+experience in installation, configuration, tuning, security, backup, recovery and upgrades of IBM AIX. experience in installation and configuration on IBM System P p690/p650, p5-570, p5-550,p5-55A and p6-570, RS-6000 Servers. experience in installing and configuration of virtual I/O Server (VIOS)

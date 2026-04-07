@@ -1,0 +1,1 @@
+Wrote database-monitoring scripts used to page DBA in the event of database problems. Traveled abroad as needed. Wrote Oracle installation and configuration standards for Windows NT and UNIX.

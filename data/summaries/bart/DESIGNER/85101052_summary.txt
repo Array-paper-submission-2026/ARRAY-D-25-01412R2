@@ -1,0 +1,1 @@
+The iCon3 tool is an integrated tool set spanning initial system estimate and quotation, through system engineering, controller programming, supervisor software configuration, commissioning and service; an 'end-to-end' BMS tool. The vision of the iCon 3 tool is to focus on system configuration and minimize the need to engineer control applications.

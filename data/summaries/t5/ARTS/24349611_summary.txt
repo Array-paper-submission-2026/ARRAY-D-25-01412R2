@@ -1,0 +1,1 @@
+perkinElmer's high throughput screening and automation lab course was co-designed and lectured for 12-14 graduate students . the course aimed to educate graduate students on the unique techniques used in an HTS lab as well as the unique instrumentation, software analysis and experimental designs used in these settings .

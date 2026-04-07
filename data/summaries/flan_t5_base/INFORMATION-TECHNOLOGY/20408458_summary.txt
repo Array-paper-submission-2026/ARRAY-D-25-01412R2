@@ -1,0 +1,1 @@
+EIS Data Migration Project (Non-Branch Analyze server space and data to determine the needed space on the "Network Attached Storage" (NAS). Run TBackups on all Novel servers using eDirectory/NDS Report Generator in order to determine the users on the different groups throughout the network.

@@ -1,0 +1,1 @@
+Software Developer was tasked to design an Internal Marketing System using c#,SQL, HTML,.net, devexpress. The successful launch of these applications enabled company growth of 30%.

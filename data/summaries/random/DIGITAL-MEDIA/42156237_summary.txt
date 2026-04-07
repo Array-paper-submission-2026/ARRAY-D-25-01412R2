@@ -1,0 +1,1 @@
+Design and monitor end-user reporting tools and systems, ensuring reports are accurate and up-to-date. using SQL. Helped identify and repair datasets that are incomplete, inconsistent, or require cleaning.

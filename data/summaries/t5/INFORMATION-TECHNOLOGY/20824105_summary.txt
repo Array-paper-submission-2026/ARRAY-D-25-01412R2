@@ -1,0 +1,1 @@
+Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud . Implemented secure off-site backups through scheduled weekly SSH dumps to remote server .

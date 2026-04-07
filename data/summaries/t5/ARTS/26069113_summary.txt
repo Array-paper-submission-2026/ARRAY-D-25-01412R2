@@ -1,0 +1,1 @@
+Experienced Software Engineer generalist with a strong interest in Game Play, and AI programming . established first playable prototype in Unity 3D, with player-controlled units . worked with artists to develop player animation and movement code using Unity's legacy animation and navigation mesh agent .

@@ -1,0 +1,1 @@
+Work with Data warehouse and other data sources to get data for Data Visualization Using Business Intelligence Tool. Perform Unit test, Integration test and Regression test in Development and QA environment for Build Release. Goal is to determine what attributes provide the most information that can be used to predict malignancy.

@@ -1,0 +1,1 @@
+PowerChart and PowerChart Office applications. Assisted client to resolve open production issue with Cerner.

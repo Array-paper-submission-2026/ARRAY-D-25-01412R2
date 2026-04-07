@@ -1,0 +1,1 @@
+Obtains patients self-report of pain when taking vital signs and reports to nurse. Observes patient for signs of discomfort. Provided a comforting and soothing environment.

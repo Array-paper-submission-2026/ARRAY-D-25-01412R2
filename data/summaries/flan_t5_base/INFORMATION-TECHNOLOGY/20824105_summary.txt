@@ -1,0 +1,1 @@
+Developed a Python script for the client on Linux for performing a set of mathematical expressions sent by the server. Evaluated the result by receiving a flag sent by the server to the client on successful execution of the mathematical expressions, indicating a secure and successful load balancer SDN based Load Balancer
