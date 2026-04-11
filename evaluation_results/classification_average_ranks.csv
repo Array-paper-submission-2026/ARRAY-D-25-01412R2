@@ -1,0 +1,14 @@
+model,average_rank
+lexrank,3.100000
+reduction,3.800000
+random,4.500000
+textrank,4.620000
+t5_small,4.660000
+luhn,5.020000
+kl,6.960000
+lsa,8.940000
+bart,9.040000
+flan_t5_base,9.600000
+pegasus,9.720000
+t5,9.920000
+t5_large,11.120000

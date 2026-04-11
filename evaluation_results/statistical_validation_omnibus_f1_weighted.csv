@@ -1,0 +1,2 @@
+metric,test,n_models,n_splits,statistic,p_value,significant,note
+f1_weighted,friedman,13,25,155.601539,0.000000,True,Omnibus repeated-measures comparison across summarization models
