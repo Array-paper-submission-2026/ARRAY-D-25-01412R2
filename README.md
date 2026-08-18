@@ -1,5 +1,4 @@
-# ARRAY-D-25-01412R2
-Anonymous code and supplementary materials for double-blind review.
+# Anonymous code and supplementary materials for double-blind review.
 
 Resume Summarization Benchmark for Downstream Classification
 A reproducible pipeline for benchmarking extractive vs. abstractive summarization on resumes, evaluated via downstream classification utility rather than surface-level text quality.
